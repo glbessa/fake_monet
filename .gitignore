@@ -1,0 +1,7 @@
+.venv
+.env
+*.h5
+*.keras
+*.png
+*.back
+__pycache__
